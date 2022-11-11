@@ -1,3 +1,9 @@
-body {
-  background-color: #aaa;
+/*comment in css*, when styling ids use # & class use */
+#main-div{
+  background-color: #153038;
+
+}
+#main-image {
+  margin-left: auto;
+}
 }
